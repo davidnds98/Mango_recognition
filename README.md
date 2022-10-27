@@ -8,3 +8,5 @@ The Dataset belongs to "AI CUP 2020 Mango Image Recognition Challenge"
 Therefore, we don't put dataset and the label file in github.
 
 # Model
+
+# Experiment
